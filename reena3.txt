@@ -1,0 +1,6 @@
+To test
+
+I add my new file to repository- commit changes to local repository ,but before pushing  changes occured on server.
+so i need to pull again
+
+do i need to do git add again to the repository for my new file created and added already to the repository?
