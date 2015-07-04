@@ -1,0 +1,6 @@
+reenaf txt file in reena-folder
+
+reenaf txt file from 'reena folder' with space in between,  git add was not working..
+the error was ..msg was path spec reena did not match any files 
+
+So created new dir reena-folder and added reenaf.txt ie this file to it 
