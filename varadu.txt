@@ -2,4 +2,9 @@ hi class!
 
 thanks everyone for participating
 
+<<<<<<< HEAD
 Geetings from ezhil.
+=======
+
+happy 5th of july
+>>>>>>> 72fe8906ef777fccffd0519edd6cd6819e6057ca
