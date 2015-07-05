@@ -1,6 +1,6 @@
 hi class!
-
 thanks everyone for participating
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Geetings from ezhil.
@@ -8,3 +8,7 @@ Geetings from ezhil.
 
 happy 5th of july
 >>>>>>> 72fe8906ef777fccffd0519edd6cd6819e6057ca
+=======
+Added by Himanshu.
+happy 5th of july
+>>>>>>> 0b935c28018c25d592f8eb4c17e075cc1a2dd584
